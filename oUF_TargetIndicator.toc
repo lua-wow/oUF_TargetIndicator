@@ -1,0 +1,8 @@
+## Interface: 100207
+## Author: Luaerror
+## Version: 1.0.0
+## Title: oUF_TargetIndicator
+## Notes: Target indicator support for oUF layouts.
+## RequiredDeps: oUF
+
+oUF_TargetIndicator.lua
