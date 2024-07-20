@@ -5,4 +5,7 @@
 ## Notes: Target indicator support for oUF layouts.
 ## RequiredDeps: oUF
 
+## X-Maintainer: Luaerror
+## X-Website: https://github.com/lua-wow/oUF_TargetIndicator
+
 oUF_TargetIndicator.lua
